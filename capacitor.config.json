@@ -1,0 +1,8 @@
+{
+  "appId": "com.example.astromath",
+  "appName": "AstroMath",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
